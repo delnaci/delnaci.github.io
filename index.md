@@ -1,4 +1,5 @@
 # Header 1
 ## Header 2
 ### Header 3
- ![(delnaci.github.io/DSC03756.jpg)]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
